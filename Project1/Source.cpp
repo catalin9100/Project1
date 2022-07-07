@@ -4,7 +4,7 @@
 
 using namespace std;
 
-//how many prime numbers are into a vector.
+//how many prime numbers are into a vector?
 void main() {
 	int n, i, j, t, k = 0, v[10];
 	cout << "Dimension: ";
